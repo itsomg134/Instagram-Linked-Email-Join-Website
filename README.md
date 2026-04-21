@@ -2,7 +2,7 @@
 
 A modern, responsive landing page that collects email addresses and Instagram handles to build a community waitlist. Perfect for creators, brands, or influencers launching new products or exclusive content.
 
-![Preview Image](https://via.placeholder.com/800x400?text=Instagram+Join+Page+Preview)
+<img width="1885" height="1108" alt="image" src="https://github.com/user-attachments/assets/68b67680-5340-4b5b-95ef-1ebb199bf064" />
 
 ##  Features
 
