@@ -157,6 +157,14 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ##  Contact
 
-Your Name – [@yourinstagram](https://instagram.com/yourinstagram) – your.email@example.com
+Om Gedam
 
-Project Link: [https://github.com/yourusername/instagram-join-page](https://github.com/yourusername/instagram-join-page)
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
+
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
+
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
+
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
+
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)
