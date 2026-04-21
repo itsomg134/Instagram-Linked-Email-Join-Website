@@ -6,14 +6,14 @@ A modern, responsive landing page that collects email addresses and Instagram ha
 
 ##  Features
 
-- ** Modern UI** – Gradient Instagram-inspired design with smooth animations
-- ** Fully Responsive** – Works flawlessly on desktop, tablet, and mobile devices
-- ** Email Collection** – Validates email format before submission
-- ** Instagram Handle Support** – Optional field to collect usernames for DM updates
-- ** LocalStorage Demo** – Simulates backend storage (ready for real API integration)
-- ** Real-time Validation** – Instant feedback with success/error messages
-- ** Instagram Link** – Direct link to your Instagram profile
-- ** Loading States** – Button spinner feedback during submission
+- Modern UI – Gradient Instagram-inspired design with smooth animations
+- Fully Responsive – Works flawlessly on desktop, tablet, and mobile devices
+- Email Collection – Validates email format before submission
+- Instagram Handle Support – Optional field to collect usernames for DM updates
+- LocalStorage Demo – Simulates backend storage (ready for real API integration)
+- Real-time Validation – Instant feedback with success/error messages
+- Instagram Link – Direct link to your Instagram profile
+- Loading States – Button spinner feedback during submission
 
 
 ##  Technologies Used
